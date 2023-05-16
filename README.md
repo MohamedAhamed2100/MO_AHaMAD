@@ -1,4 +1,10 @@
-Project Description:
+## line coding system & BPSK (Team 8)
+
+from Apr 2023 - Jun 2023
+
+Associated with Faculty Of Engineering Ain Shams University
+
+## Project Description:
 
 part1:
 You are looking for a simulation project using Octave simulator for line coding system. Here are the steps you need to follow:
@@ -34,10 +40,34 @@ Receiver:
 3. The receiver consists of modulator, integrator (simply LPF) and decision device. 
 4. The output of decision level is compared with the generated stream of bits in the transmitter. The comparison is performed by comparing the value of each received bit with the corresponding transmitted bit (step 1) and count number of errors. Then calculate bit error rate (BER) = number of error bits/ Total number of bits 1.
 
-About the simulation tool:
+## Tool Used
 
 Octave is a free software licensed under the GNU General Public License (GPL) 1. It is a powerful mathematics-oriented syntax with built-in 2D/3D plotting and visualization tools. You can download it from the official website https://octave.org/ or use the package manager of your operating system.
 
 ![image](https://github.com/MohamedAhamed2100/MO_AHaMAD/assets/107947222/9746b463-f58e-4987-a81e-64aab0c1bbb0)
 
+## Credits
 
+This Team project is part of the requiremtents of "ECE252s - Fundamentals of Communication Systems" course.
+
+## Team members
+
+2001722	Abdelrhman Ahmed Sayed Ahmed 
+
+2001171	mohamed Ahmed Sayed Ahmed 
+
+2001304	Yasmeen Mahmoud Hassan Mahmoud
+
+2000252	Eslam Mohamed Marzouk Abdelaziz 
+
+2001118	Karim Ibrahim Saad Abd-Elrazek Elshehawy
+
+2002139	Abdelrhman Elsayed Ahemd Mohamed 
+
+2001052	Muhammad AbdelKhaleq Muhammad
+
+2000056	Ahmed Nader Ahmed Mohamed
+
+2001398	Youssef Hassanin Mahmoud Hassanin
+
+2000047	Ahmed Ali Abd Elhakeem Hassan
