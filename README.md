@@ -7,7 +7,7 @@ Associated with Faculty Of Engineering Ain Shams University
 ## Project Description:
 
 part1:
-You are looking for a simulation project using Octave simulator for line coding system. Here are the steps you need to follow:
+You are looking for a simulation project using Octave for line coding system. Here are the steps you need to follow:
 
 Transmitter:
 
@@ -28,7 +28,7 @@ Receiver:
 
 part2:
 
-You are looking for a simulation project using Octave simulator forcode for BPSK transmitter and receiver .
+You are looking for a simulation project using Octave forcode for BPSK transmitter and receiver .
 
 Transmitter:
 
