@@ -1,4 +1,4 @@
-## line coding system & BPSK 
+## line coding system & Binary Phase Shift Keying (BPSK)
 
 from Apr 2023 - Jun 2023
 
