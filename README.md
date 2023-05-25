@@ -50,7 +50,7 @@ Octave is a free software licensed under the GNU General Public License (GPL) 1.
 
 This Team project is part of the requiremtents of "ECE252s - Fundamentals of Communication Systems" course.
 
-## Team members
+## Team 8 members
 
   Abdelrhman Ahmed Sayed Ahmed 
   
