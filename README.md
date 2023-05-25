@@ -56,9 +56,9 @@ This Team project is part of the requiremtents of "ECE252s - Fundamentals of Com
   
   mohamed Ahmed Sayed Ahmed 
   
-  Yasmeen Mahmoud Hassan Mahmoud
+  Eslam Mohamed Marzouk Abdelaziz
   
-  Eslam Mohamed Marzouk Abdelaziz 
+  Youssef Hassanin Mahmoud Hassanin
 
   Karim Ibrahim Saad Abd-Elrazek Elshehawy
 
@@ -68,6 +68,6 @@ This Team project is part of the requiremtents of "ECE252s - Fundamentals of Com
 
   Ahmed Nader Ahmed Mohamed
 
-  Youssef Hassanin Mahmoud Hassanin
+  Yasmeen Mahmoud Hassan Mahmoud
 
   Ahmed Ali Abd Elhakeem Hassan
