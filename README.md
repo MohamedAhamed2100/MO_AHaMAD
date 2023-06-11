@@ -46,7 +46,7 @@ Octave is a free software licensed under the GNU General Public License (GPL) 1.
 
 ![image](https://github.com/MohamedAhamed2100/MO_AHaMAD/assets/107947222/9746b463-f58e-4987-a81e-64aab0c1bbb0)
 
-and MATLAB is a programming and numeric computing platform used by millions of engineers and scientists to analyze data, develop algorithms, and create models.
+and MATLAB is a programming and numeric computing platform used by millions of engineers and scientists to analyze data, develop algorithms, and create models (https://www.mathworks.com/products/matlab.html).
 
 ![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/6f44daf8-5e52-4ebf-b623-43f503462d84)
 
