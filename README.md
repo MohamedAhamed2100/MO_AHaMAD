@@ -7,7 +7,7 @@ Associated with Faculty Of Engineering Ain Shams University
 ## Project Description:
 
 part1:
-You are looking for a simulation project using Octave for line coding system. Here are the steps you need to follow:
+You are looking for a simulation project using Octave or Matlab for line coding system. Here are the steps you need to follow:
 
 Transmitter:
 
@@ -45,6 +45,10 @@ Receiver:
 Octave is a free software licensed under the GNU General Public License (GPL) 1. It is a powerful mathematics-oriented syntax with built-in 2D/3D plotting and visualization tools. You can download it from the official website https://octave.org/ or use the package manager of your operating system.
 
 ![image](https://github.com/MohamedAhamed2100/MO_AHaMAD/assets/107947222/9746b463-f58e-4987-a81e-64aab0c1bbb0)
+
+MATLAB is a programming and numeric computing platform used by millions of engineers and scientists to analyze data, develop algorithms, and create models.
+
+![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/140beed4-2e3c-4ff0-a21d-ff87709424eb)
 
 ## Credits
 
