@@ -44,11 +44,11 @@ Receiver:
 
 Octave is a free software licensed under the GNU General Public License (GPL) 1. It is a powerful mathematics-oriented syntax with built-in 2D/3D plotting and visualization tools. You can download it from the official website https://octave.org/ or use the package manager of your operating system.
 
-![image](https://github.com/MohamedAhamed2100/MO_AHaMAD/assets/107947222/9746b463-f58e-4987-a81e-64aab0c1bbb0)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/mqXDhT1/238755714-9746b463-f58e-4987-a81e-64aab0c1bbb0.png" alt="238755714-9746b463-f58e-4987-a81e-64aab0c1bbb0" border="0"></a>
 
 and MATLAB is a programming and numeric computing platform used by millions of engineers and scientists to analyze data, develop algorithms, and create models (https://www.mathworks.com/products/matlab.html).
 
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/6f44daf8-5e52-4ebf-b623-43f503462d84)
+<a href="https://ibb.co/Zx9gdrs"><img src="https://i.ibb.co/tDR2B6f/122.jpg" alt="122" border="0"></a>
 
 ## Credits
 
