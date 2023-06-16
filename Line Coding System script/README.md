@@ -1,52 +1,36 @@
 # Linecoding
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/VCpc0Dk/1.jpg" alt="1" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/pdm0WmL/2.jpg" alt="2" border="0"></a>
 
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/7e8fda3d-a1e4-4522-92ff-b0dee45b38c3)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/4m5JxKC/3.jpg" alt="3" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/HNvnf4m/4.jpg" alt="4" border="0"></a>
 
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/6f9e3cf6-3747-413b-a48c-e2eaffe47d02)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/PC2fczr/5.jpg" alt="5" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/FW7rzDH/6.jpg" alt="6" border="0"></a>
 
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/a3198788-f5cf-4581-861f-7bfbdfb8b698)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Fz5c8hZ/7.jpg" alt="7" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/yPfR8pL/8.jpg" alt="8" border="0"></a>
 
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/5a485851-1b9f-440c-ad7e-04913fc490ae)
-
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/c13a720d-454b-4e79-838c-6fce2a17e027)
-
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/ed8eccda-73fb-418a-9c96-e67f2058b57a)
-
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/3d01ea9d-888a-452b-a958-3c2e47375ad2)
-
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/c0e34a7b-2d45-4992-856d-7acfd20aa93f)
-
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/c4c18d36-e58c-44da-abda-f7fb159be2c3)
-
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/72516ed3-b4f8-4fb2-8550-0a42c3238c79)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/gDcJ59L/9.jpg" alt="9" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/NLvxHrK/10.jpg" alt="10" border="0"></a>
 
 # Eye diagram
 
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/cc3f2e75-95d0-4c46-aa8e-c822d8affb03)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/hFyk16m/11.jpg" alt="11" border="0"></a>
 
 # Spectral Of Linecoding
 
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/8eb10782-8ded-40ee-8021-b42206d0f5a9)
-
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/a5ff77f5-2dcb-4939-902f-c66cbce9b790)
-
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/e0fb3849-a1af-417a-91ae-816ac6edc62d)
-
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/b9507c1d-9345-4053-80cb-8f898f54b52d)
-
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/9e09b74e-8d3e-4a31-a7ec-9d33fa20df2f)
-
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/49b44ae2-fb87-4808-b0d2-3fd9c0dddb92)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/j5bx26r/12.jpg" alt="12" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/x8q7xfn/13.jpg" alt="13" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Nt6pm5f/14.jpg" alt="14" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/sKFRxTL/15.jpg" alt="15" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Fb4zHGs/16.jpg" alt="16" border="0"></a>
 
 # BER Versus Sigma
 
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/7241f074-233a-4314-8276-2dea683bcbff)
-
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/a824982a-d050-4039-8399-ed80b833622a)
-
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/7fb3f9de-4d04-4479-a22a-e873a41174d7)
+<a href="https://ibb.co/10MbvqX"><img src="https://i.ibb.co/sgCtmw1/17.jpg" alt="17" border="0"></a>
 
 # Number of detected errors Vector for Bipolar Line Coding
 
-![image](https://github.com/MohamedAhamed2100/communication-project/assets/107947222/55535610-c14e-4643-9412-09bddd4a17a9)
+<a href="https://ibb.co/rZFqkbP"><img src="https://i.ibb.co/nD64r32/18.jpg" alt="18" border="0"></a>
 
